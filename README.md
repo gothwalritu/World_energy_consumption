@@ -1,13 +1,13 @@
 # World_energy_consumption
 
 **1. Primary data cleaning, preparation and exploration**
-Data Integrity Checks: Perform sanity checks for anomalies, outliers, and missing values and document how you handle them.
+Data Integrity Checks: Perform sanity checks for anomalies, outliers, and missing values and document how I have handled them.
 
 
 **2. Create scope and objectives**
    Using this data, I can perform a variety of analyses:
 
-**Trend Analysis:** You can look at the historical data to identify trends in consumption and emissions. This could involve comparing the growth of different types of energy consumption or looking at how energy consumption and CO2 emissions correlate.
+**Trend Analysis:** Look at the historical data to identify trends in consumption and emissions. This could involve comparing the growth of different types of energy consumption or looking at how energy consumption and CO2 emissions correlate.
 
 **Comparative Analysis:** Compare data between countries or regions to see which are the biggest consumers or producers of different energy types and which are making the most significant shifts toward renewable energy.
 
